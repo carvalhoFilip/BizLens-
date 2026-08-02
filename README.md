@@ -51,8 +51,4 @@ O BizLens transforma dados simples do usuário em um relatório estruturado de v
 
 ---
 
-## Repositório
-
-Este repositório é público para fins de portfólio. O código-fonte completo é privado.
-
 Para conhecer o produto: **[bizlens.online](https://bizlens.online)**
