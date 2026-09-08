@@ -47,8 +47,7 @@ O BizLens transforma dados simples do usuário em um relatório estruturado de v
 
 ## Status
 
-🟢 Em produção
-
+Em pausa
 ---
 
 Para conhecer o produto: **[bizlens.online](https://bizlens.online)**
